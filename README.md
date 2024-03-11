@@ -1,5 +1,5 @@
 # master_blaster
-A program to launch blast multiple times to get homologous of proteins in sucesive sequences. 
+A program to launch ncbi blast multiple times to get homologous of proteins in sucesive sequences. 
 
 To install libraries that the program uses run: pip install -r requirements.txt
 
