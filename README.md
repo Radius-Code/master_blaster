@@ -1,6 +1,8 @@
 # master_blaster
 A program to launch blast multiple times to get homologous of proteins in sucesive sequences. 
 
+To install libraries that the program uses run: pip install -r requirements.txt
+
 To launch the program open launcher.py in vscode and run it.
 First input a sequence and the organism corresponding to it and launch the program, so you obtain homologous of that sequence and homologous of those homologous in sucesive intents.
 
